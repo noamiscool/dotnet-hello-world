@@ -14,6 +14,14 @@ namespace hello_world_api
     {
         public static void Main(string[] args)
         {
+		// Open the text file using a stream reader.
+		 using StreamReader reader = new("../whatever.link");
+
+	    // Read the stream as a string.
+	    string text = reader.ReadToEnd();
+
+	    // Write the text to the console.
+	    Console.WriteLine(text);
             BuildWebHost(args).Run();
         }
 
