@@ -1,0 +1,16 @@
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\bin\Debug\netcoreapp2.0\hello-world-api.deps.json
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\bin\Debug\netcoreapp2.0\hello-world-api.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\bin\Debug\netcoreapp2.0\hello-world-api.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\bin\Debug\netcoreapp2.0\hello-world-api.dll
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\bin\Debug\netcoreapp2.0\hello-world-api.pdb
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\obj\Debug\netcoreapp2.0\hello-world-api.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\obj\Debug\netcoreapp2.0\hello-world-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\obj\Debug\netcoreapp2.0\hello-world-api.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\obj\Debug\netcoreapp2.0\hello-world-api.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\obj\Debug\netcoreapp2.0\hello-world-api.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\obj\Debug\netcoreapp2.0\hello-world-api.sourcelink.json
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\obj\Debug\netcoreapp2.0\hello-world-api.dll
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\obj\Debug\netcoreapp2.0\hello-world-api.pdb
+C:\Users\Administrator\Source\Repos\dotnet-hello-world\hello-world-api\obj\Debug\netcoreapp2.0\hello-world-api.genruntimeconfig.cache

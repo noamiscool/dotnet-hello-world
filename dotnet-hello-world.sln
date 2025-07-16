@@ -1,7 +1,10 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello-world-api", "hello-world-api\hello-world-api.csproj", "{3FFEDBC1-AC8B-4820-A349-942B05498238}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello-world-api", "hello-world-api\hello-world-api.csproj", "{3FFEDBC1-AC8B-4820-A349-942B05498238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldApi.Tests", "HelloWorldApi.Tests\HelloWorldApi.Tests.csproj", "{73756D6D-277E-40BA-8ADA-0EC5135AC8BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +16,15 @@ Global
 		{3FFEDBC1-AC8B-4820-A349-942B05498238}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FFEDBC1-AC8B-4820-A349-942B05498238}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FFEDBC1-AC8B-4820-A349-942B05498238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73756D6D-277E-40BA-8ADA-0EC5135AC8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73756D6D-277E-40BA-8ADA-0EC5135AC8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73756D6D-277E-40BA-8ADA-0EC5135AC8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73756D6D-277E-40BA-8ADA-0EC5135AC8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B955567B-4F32-46CF-AA02-8081229DC911}
 	EndGlobalSection
 EndGlobal
